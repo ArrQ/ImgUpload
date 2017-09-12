@@ -1,0 +1,25 @@
+//
+//  YY.pch
+//  ImgUpload
+//
+//  Created by ArrQ on 2017/9/12.
+//  Copyright © 2017年 ArrQ. All rights reserved.
+//
+
+#ifndef YY_pch
+#define YY_pch
+
+#define SCREEN_WIDTH   [[UIScreen mainScreen] bounds].size.width
+#define SCREEN_HEIGHT  [[UIScreen mainScreen] bounds].size.height
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <Masonry/Masonry.h>
+#import <SDWebImage/SDImageCache.h>
+#import <MJExtension/MJExtension.h>
+#import <IQKeyboardManager.h>
+#import <UIImageView+WebCache.h>
+#import <SDWebImage/SDWebImageManager.h>
+
+
+
+#endif /* YY_pch */
